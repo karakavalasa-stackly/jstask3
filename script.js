@@ -320,7 +320,7 @@ switch (choicee) {
 
         let bonus;
 
-        if (employee.salary > 50000S {
+        if (employee.salary > 50000) {
             bonus = 10000;
         } else if (employee.salary > 30000) {
             bonus = 5000;
